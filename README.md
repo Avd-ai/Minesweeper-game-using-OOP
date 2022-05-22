@@ -12,3 +12,5 @@ Developed a well-known minesweeper game by applying Object oriented programming 
 4) Some features may not work based on Mac vs windows etc
 5) Future scope : Take grid size from the user.
                 : 'restart the game' option.
+
+Run the project.py file in a way similar to 'python project.py' from terminal
